@@ -1,2 +1,34 @@
-# data-cleaning-visualization-project
-You can use:  Cleaned, processed, and visualized the Titanic dataset using Python, Pandas, Matplotlib, and Seaborn. Includes handling missing values, removing duplicates and outliers, and generating insightful visualizations.
+# Data Cleaning & Visualization Project
+
+## Objective
+
+Clean a raw dataset and visualize meaningful insights using Python.
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Tasks Performed
+
+- Missing Value Handling
+- Duplicate Removal
+- Outlier Detection
+- Data Visualization
+
+## Visualizations
+
+1. Survival Count
+2. Age Distribution
+3. Gender vs Survival
+4. Fare Boxplot
+5. Correlation Heatmap
+
+## How To Run
+
+pip install -r requirements.txt
+
+python data_cleaning_project.py
